@@ -22,10 +22,12 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Estudiante de Economía | PUCP | 8vo ciclo | Programas Stata, R y Python
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+🤔 Python, R and Stata scripts are found in these repositories
+💬 with replications of econometrics models.
+📫 Also, there are scripts using database of ENAHO and ENDES.
 
 ## Communities :dancers:
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
@@ -35,12 +37,9 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Mobile application development using **Android (Java)**.
 - Python.
-- Java
 - Competitive Programming.
 - Machine Learning
-- Deep Learning
 
 **Languages and Tools:**  
 
